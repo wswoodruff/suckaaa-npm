@@ -1,0 +1,17 @@
+{
+  "name": "@shizzy/suckaaa",
+  "version": "0.1.0",
+  "description": "suckaaa",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wswoodruff/suckaaa-npm.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "postinstall": "open https://suckaaa.com",
+    "uninstall": "open https://suckaaa.com"
+  },
+  "author": "wswoodruff",
+  "license": "UNLICENSED",
+  "homepage": "https://suckaaa.com"
+}
